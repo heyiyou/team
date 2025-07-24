@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+.header-buttons {                    /*로그인*/
+  margin-bottom: 20px;
+}
+ 
+.header-buttons button {              /*로그인*/
+  margin-right: 10px;
+}
+
+.logged-in-user {                      /*홈 상단 로그인*/
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background-color: #f0f0f0;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 14px;
+}
